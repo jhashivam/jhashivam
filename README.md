@@ -27,28 +27,33 @@ My past work experience includes both in Development & Operations in IT. I worke
 ## ♦️ Tools 🔨
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
+
 ![](https://img.shields.io/badge/Programming-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Cloud-Aws-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 ![](https://img.shields.io/badge/DataVisualization-Tableau-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/DataVisualization-PowerBI-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
+![](https://img.shields.io/badge/Spreadsheet-Excel-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 ![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/VersionControl-BitBucket-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/DevOps-AzureDevOps-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
-![](https://img.shields.io/badge/Spreadsheet-Excel-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
 ## ♦️ Skills 💻
 ![](https://img.shields.io/badge/DataAnalysis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Azure Data Enginner-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Azure Cloud-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/AWS Cloud-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/AzureDataEnginner-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/AzureCloud-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/AWSCloud-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/ExploratoryDataAnalysis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/HypothesisBuilding-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
