@@ -12,7 +12,7 @@ My work over here includes : -
 - experience the Azure components like: Data Factory, Databricks, Data Lake Storage, Azure Functions, Application Gateway.
 - experience orchestrating data by using robust data pipelines including monitoring and self-healing.
 - experience in data extraction, transformation, clean-up and modelling.
-- e together with the team and product owner plan and refine the team’s program increments.
+- together with the team and product owner plan and refine the team’s program increments.
 
 
 
