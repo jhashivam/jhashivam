@@ -7,13 +7,12 @@ My past work experience includes both in Development & Operations in IT. I worke
 My work over here includes : -
 
 - responsible for loading, transforming and integrating data to feed reports and analyses it.
-- Exploaratory Data Analysis using Python, SQL or data visualization tools like PowerBI.
-- Very good in scripting capabilities in Python.
-- I worked together with a scrum team on a project with the goal of centralizing the financial credit risk models within the bank. 
-- Experience the Azure components like: Data Factory, Databricks, Data Lake Storage, Azure Functions, Application Gateway.
-- Experience orchestrating data by using robust data pipelines including monitoring and self-healing.
-- Experience in data extraction, transformation, clean-up and modelling.
-- I together with the team and product owner plan and refine the team’s program increments.
+- exploaratory Data Analysis using Python, SQL or data visualization tools like PowerBI.
+- very good in scripting capabilities in Python.
+- experience the Azure components like: Data Factory, Databricks, Data Lake Storage, Azure Functions, Application Gateway.
+- experience orchestrating data by using robust data pipelines including monitoring and self-healing.
+- experience in data extraction, transformation, clean-up and modelling.
+- e together with the team and product owner plan and refine the team’s program increments.
 
 
 
