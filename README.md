@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivam Jha</h1>
 <h3 align="center">A Data enthusiast having 11+ years of IT experience & Extensive knowledge in Data Engineer, Data Analytics and Statistics.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
 
 
 Currently working as a Data Engineer & Data Analyst at ABN AMRO Bank, Netherlands  and I am also pursuing Master of Science in Data Science & Machine Learning from IIIT Bangalore and Liverpool John Moores University specialization in Data Science & Machine Learning.
