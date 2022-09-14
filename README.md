@@ -1,6 +1,4 @@
-- 👋 Hi! 
-
-I am Shivam Jha,
+Hi, I am Shivam Jha 👋 
 
 I am currently working as a Data Engineer & Data Analyst at ABN AMRO Bank, Netherlands  and I am also pursuing Master of Science in Data Science & Machine Learning from IIIT Bangalore and Liverpool John Moores University specialization in Data Science & Machine Learning.
 
@@ -16,14 +14,6 @@ My work over here includes : -
 - Experience orchestrating data by using robust data pipelines including monitoring and self-healing.
 - Experience in data extraction, transformation, clean-up and modelling.
 - I together with the team and product owner plan and refine the team’s program increments.
-
-✅ Farmer's Market Expansion
-✅ NYC Taxi ride EDA
-✅ Food Forecasting Analysis
-✅ Bellabeat Case Study
-✅ Assure Next Simulation Project
-✅ Employee Info Case Study
-
 
 
 
