@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shivam Jha</h1>
-<h3 align="center">A Data enthusiast having 11+ years of IT experience & Extensive knowledge in Data Engineer , Data Analytics and Statistics.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavan1639&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavan1639" /> </p>
+<h3 align="center">A Data enthusiast having 11+ years of IT experience & Extensive knowledge in Data Engineer, Data Analytics and Statistics.</h3>
 <img align="right" alt="Coding" width="400" src="http://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
