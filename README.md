@@ -51,34 +51,22 @@ My past work experience includes both in Development & Operations in IT. I worke
 
 ## ♦️ Skills 💻
 ![](https://img.shields.io/badge/DataAnalysis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
 ![](https://img.shields.io/badge/AzureDataEnginner-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
 ![](https://img.shields.io/badge/AzureCloud-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
 ![](https://img.shields.io/badge/AWSCloud-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
 ![](https://img.shields.io/badge/ExploratoryDataAnalysis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
 ![](https://img.shields.io/badge/HypothesisBuilding-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
 ![](https://img.shields.io/badge/Database-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
 ![](https://img.shields.io/badge/Statistics-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
 ![](https://img.shields.io/badge/FeatureEngineering-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
 ![](https://img.shields.io/badge/MachineLearning-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
 ![](https://img.shields.io/badge/TimeSeriesAnalysis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
 ## ♦️ Connect with me 🔗
 <p>
 <a href="mailto:shivamjhads@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-  
 <a href="https://www.linkedin.com/in/jhashivam/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
 </p>
 
