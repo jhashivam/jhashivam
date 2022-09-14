@@ -1,6 +1,11 @@
-Hi, I am Shivam Jha 👋 
 
-I am currently working as a Data Engineer & Data Analyst at ABN AMRO Bank, Netherlands  and I am also pursuing Master of Science in Data Science & Machine Learning from IIIT Bangalore and Liverpool John Moores University specialization in Data Science & Machine Learning.
+<h1 align="center">Hi 👋, I'm Shivam Jha</h1>
+<h3 align="center">A Data enthusiast having 11+ years of IT experience & Extensive knowledge in Data Engineer , Data Analytics and Statistics.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavan1639&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavan1639" /> </p>
+<img align="right" alt="Coding" width="400" src="http://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+Currently working as a Data Engineer & Data Analyst at ABN AMRO Bank, Netherlands  and I am also pursuing Master of Science in Data Science & Machine Learning from IIIT Bangalore and Liverpool John Moores University specialization in Data Science & Machine Learning.
 
 My past work experience includes both in Development & Operations in IT. I worked on Azure & AWS Cloud, Python, DevOps tools ( Jenkins, GitLab, Docker, Kubernetes, Ansible)
 
