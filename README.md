@@ -17,7 +17,7 @@ My past work experience includes both in Development & Operations in IT. I worke
 
 ## ♦️ Projects 🚧
 
-✅ [Risk Analytics in Banking & Financial services](https://github.com/jhashivam/EDA-Projects/tree/main/1-EDA_Case_Study)\
+✅ [EDA-Projectsl services](https://github.com/jhashivam/Data_Analysis-Projects)\
 ✅ [Lead-Scoring_CaseStudy](https://github.com/jhashivam/MSC-Assignment/tree/main/Lead-Scoring_CaseStudy)\
 ✅ [Risk Analytics in Banking & Financial services](https://github.com/jhashivam/EDA-Projects/tree/main/1-EDA_Case_Study)\
 ✅ [Linear-Regression](https://github.com/jhashivam/MSC-Assignment/tree/main/Linear-Regression_Assignment)\
