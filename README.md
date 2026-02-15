@@ -21,9 +21,7 @@ My past work experience includes both in Development & Operations in IT. I worke
 ## ♦️ Projects 🚧
 
 ✅ [EDA-Projectsl services](https://github.com/jhashivam/Data_Analysis-Projects)\
-✅ [Lead-Scoring_CaseStudy](https://github.com/jhashivam/MSC-Assignment/tree/main/Lead-Scoring_CaseStudy)\
-✅ [Risk Analytics in Banking & Financial services](https://github.com/jhashivam/EDA-Projects/tree/main/1-EDA_Case_Study)\
-✅ [Linear-Regression](https://github.com/jhashivam/MSC-Assignment/tree/main/Linear-Regression_Assignment)\
+
 
 
 
@@ -70,12 +68,7 @@ My past work experience includes both in Development & Operations in IT. I worke
 
 ✅Azure Fundamentals (DP-900)\
 ✅Microsoft Certified: Azure Data Engineer Associate- (DP -203) - I413-1986\
-✅AZ-400: Designing and Implementing Microsoft DevOps Solutions - H624-0586\
-✅AZ-104: Microsoft Certified: Azure Administrator - Certification Number: H524-9699\
-✅AZ-900: Microsoft Azure Fundamentals - Certification Number: H436-4653\
-✅AWSCertifiedSolutions Architect - Associate(SAA)Validation Number MCRKHLEKCBB4QY9P\
-✅CertifiedKubernetes Administrator -CKA-1900-003992-0100\
-✅Agile - CertifiedScrum Master (CSM)– CertificationID :000832020\
+
 
 
 ## ♦️ Connect with me 🔗
