@@ -1,79 +1,53 @@
+<h1 align="center">Hi, I'm Shivam Jha 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Shivam Jha</h1>
-<h3 align="center">A Data enthusiast having 11+ years of IT experience & Extensive knowledge in Data Engineer, Data Analytics and Statistics.</h3>
+<p align="center"><strong>Full Stack Developer | AI/ML &amp; Intelligent Solutions | BTP Architect | RAP Specialist | CPI | S/4HANA | SAP Datasphere | BDC | Databricks | Django API Developer</strong></p>
 
+<p align="center">Based in the Netherlands · 11+ years of IT experience · MSc in Data Science &amp; Machine Learning</p>
 
-Currently working as a Full Stack Developer, Netherlands. Completed Master of Science in Data Science & Machine Learning from Liverpool John Moores University, UK specialization in Data Science & Machine Learning.
-
-My past work experience includes both in Development & Operations in IT. I worked on Azure & AWS Cloud, Python, DevOps tools ( Jenkins, GitLab, Docker, Kubernetes, Ansible)
-
-## ♦️ My work over here includes : -
-
-- responsible for loading, transforming and integrating data to feed reports and analyses it.
-- exploaratory Data Analysis using Python, SQL or data visualization tools like PowerBI.
-- very good in scripting capabilities in Python.
-- experience the Azure components like: Data Factory, Databricks, Data Lake Storage, Azure Functions, Application Gateway.
-- experience orchestrating data by using robust data pipelines including monitoring and self-healing.
-- experience in data extraction, transformation, clean-up and modelling.
-- together with the team and product owner plan and refine the team’s program increments.
-
-
-## ♦️ Projects 🚧
-
-✅ [EDA-Projectsl services](https://github.com/jhashivam/Data_Analysis-Projects)\
-
-
-
-
-## ♦️ Tools 🔨
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-
-![](https://img.shields.io/badge/Programming-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Cloud-Aws-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-![](https://img.shields.io/badge/DataVisualization-Tableau-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/DataVisualization-PowerBI-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-![](https://img.shields.io/badge/Spreadsheet-Excel-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/VersionControl-BitBucket-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/DevOps-AzureDevOps-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-
-
-
-## ♦️ Skills 💻
-![](https://img.shields.io/badge/DataAnalysis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/AzureDataEnginner-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/AzureCloud-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/AWSCloud-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/ExploratoryDataAnalysis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/HypothesisBuilding-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Database-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Statistics-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/FeatureEngineering-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/MachineLearning-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/TimeSeriesAnalysis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-## ♦️ Certifications & Trainings 📚🎓
-
-✅Azure Fundamentals (DP-900)\
-✅Microsoft Certified: Azure Data Engineer Associate- (DP -203) - I413-1986\
-
-
-
-## ♦️ Connect with me 🔗
-<p>
-<a href="mailto:shivamjhads@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/jhashivam/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhashivam/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:shivamjhads@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+## About me
+
+I'm a full stack developer with a background spanning software development, cloud, data engineering, analytics, and machine learning. I hold an MSc in Data Science & Machine Learning from Liverpool John Moores University.
+
+- Building web applications and APIs with Python and Django.
+- Working across SAP BTP, RAP, CPI, S/4HANA, SAP Datasphere, and BDC.
+- Exploring AI/ML and intelligent solutions alongside data platforms such as Databricks.
+- Experienced with Azure, AWS, Python, Docker, Kubernetes, and DevOps tooling.
+
+## Skills & technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/REST_APIs-4B5563?style=for-the-badge" alt="REST APIs">
+  <img src="https://img.shields.io/badge/AI_%26_ML-7B61FF?style=for-the-badge" alt="AI and machine learning">
+  <img src="https://img.shields.io/badge/SAP_BTP-0FA1E0?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP">
+  <img src="https://img.shields.io/badge/Databricks-EF3E2F?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</p>
+
+**SAP:** BTP · RAP · CPI · S/4HANA · SAP Datasphere · BDC  
+**Data & AI:** Databricks · Data Engineering · Analytics · Machine Learning  
+**Development & Cloud:** Python · Django · REST APIs · Azure · AWS · Docker · Kubernetes
+
+## Featured projects
+
+- [Django Project](https://github.com/jhashivam/Django-Project) — Django and Python web development.
+- [Data Analysis Projects](https://github.com/jhashivam/Data_Analysis-Projects) — data analysis and exploratory data projects.
+
+## Certifications
+
+- Microsoft Certified: Azure Data Engineer Associate (DP-203)
+- Microsoft Azure Data Fundamentals (DP-900)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jhashivam/)
+- [Email](mailto:shivamjhads@gmail.com)
