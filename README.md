@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Full Stack Developer | AI/ML &amp; Intelligent Solutions | BTP Architect | RAP Specialist | CPI | S/4HANA | SAP Datasphere | BDC | Databricks | Django API Developer</strong></p>
 
-<p align="center">Based in the Netherlands · 11+ years of IT experience · MSc in Machine Learning &amp; Artificial Intelligence</p>
+<p align="center">Based in the Netherlands · 11+ years of IT experience · MSc in Data Science</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhashivam/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm a full stack developer with a background spanning software development, cloud, data engineering, analytics, and machine learning. I hold an MSc in Machine Learning and Artificial Intelligence from Liverpool John Moores University.
+I'm a full stack developer with a background spanning software development, cloud, data engineering, analytics, and machine learning. I hold an MSc in Data Science (with Merit) from Liverpool John Moores University.
 
 - Building web applications and APIs with Python and Django.
 - Working across SAP BTP, RAP, CPI, S/4HANA, SAP Datasphere, and BDC.
@@ -53,7 +53,7 @@ I'm a full stack developer with a background spanning software development, clou
 
 ## Education
 
-- Master of Science (ML/AI) — Liverpool John Moores University, London
+- Master of Science (MSc) in Data Science, with Merit — Liverpool John Moores University | Jun 2022 – Nov 2024
 - College of Engineering, Electronics — Pune University
 
 ## Languages & nationality
