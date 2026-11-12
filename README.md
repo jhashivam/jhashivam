@@ -2,16 +2,16 @@
 
 <p align="center"><strong>Full Stack Developer | AI/ML &amp; Intelligent Solutions | BTP Architect | RAP Specialist | CPI | S/4HANA | SAP Datasphere | BDC | Databricks | Django API Developer</strong></p>
 
-<p align="center">Based in the Netherlands · 11+ years of IT experience · MSc in Data Science &amp; Machine Learning</p>
+<p align="center">Based in the Netherlands · 11+ years of IT experience · MSc in Machine Learning &amp; Artificial Intelligence</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhashivam/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:shivamjhads@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:shivamjhadevai@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## About me
 
-I'm a full stack developer with a background spanning software development, cloud, data engineering, analytics, and machine learning. I hold an MSc in Data Science & Machine Learning from Liverpool John Moores University.
+I'm a full stack developer with a background spanning software development, cloud, data engineering, analytics, and machine learning. I hold an MSc in Machine Learning and Artificial Intelligence from Liverpool John Moores University.
 
 - Building web applications and APIs with Python and Django.
 - Working across SAP BTP, RAP, CPI, S/4HANA, SAP Datasphere, and BDC.
@@ -44,10 +44,23 @@ I'm a full stack developer with a background spanning software development, clou
 
 ## Certifications
 
+- SAP Certified Associate - Back-End Developer - ABAP Cloud
+- SAP Certified - Solution Architect - SAP BTP
 - Microsoft Certified: Azure Data Engineer Associate (DP-203)
 - Microsoft Azure Data Fundamentals (DP-900)
+
+## Education
+
+- Master of Science (ML/AI) — Liverpool John Moores University, London
+- College of Engineering, Electronics — Pune University
+
+## Languages & nationality
+
+- English
+- Dutch (A2)
+- Dutch nationality
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/jhashivam/)
-- [Email](mailto:shivamjhads@gmail.com)
+- [Email](mailto:shivamjhadevai@gmail.com)
