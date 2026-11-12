@@ -16,9 +16,9 @@ I'm a full stack developer with a background spanning software development, clou
 - Building web applications and APIs with Python and Django.
 - Working across SAP BTP, RAP, CPI, S/4HANA, SAP Datasphere, and BDC.
 - Exploring AI/ML and intelligent solutions alongside data platforms such as Databricks.
-- Experienced with Azure, AWS, Python, Docker, Kubernetes, and DevOps tooling.
+- Experienced with Azure, AWS, Python development, and DevOps practices.
 
-## Skills & technologies
+## Technical skills
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -29,13 +29,15 @@ I'm a full stack developer with a background spanning software development, clou
   <img src="https://img.shields.io/badge/Databricks-EF3E2F?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </p>
 
-**SAP:** BTP · RAP · CPI · S/4HANA · SAP Datasphere · BDC  
-**Data & AI:** Databricks · Data Engineering · Analytics · Machine Learning  
-**Development & Cloud:** Python · Django · REST APIs · Azure · AWS · Docker · Kubernetes
+- **Data warehousing:** SAP BW 7.4 on HANA, SAP BW/4HANA 2.0, LSA++, ADSOs and planning ADSOs, CompositeProviders, Open ODS Views, BW queries, and BW/4HANA Cockpit.
+- **SAP Datasphere:** Spaces, layered architecture, CDC-enabled replication, data transformations and flows, snapshots, graphical and SQL views, semantic modelling, and analytic models.
+- **Analytics and planning:** S/4HANA Embedded Analytics, ABAP CDS views, SAP Analytics Cloud (SAC) live models, Optimized Design Experience, dashboards, planning template customization, and actual-versus-plan analysis.
+- **BDC and integration:** BDC architecture, migration frameworks, entitlements, formations, Intelligent Applications, standard data products, rewiring, and zero-copy sharing concepts.
+- **HANA and development:** Calculation Views, SQL, stored procedures, ABAP, BAdIs, AMDP, OData, SE63, JavaScript, R, HDBSQL, Cognos, Tableau, and Analysis for Office.
+- **SAP BTP and full-stack development:** RAP, CAP (Node.js), ABAP Cloud, SAP BTP ABAP Environment, SAPUI5, Fiori Elements, Fiori Launchpad, SAP Build Process Automation, SAP Asset Performance Management, Kyma, Cloud Foundry, API Management, XSUAA, and IAS.
+- **Tools and DevOps:** Git, CI/CD pipelines, SAP Business Application Studio, Eclipse with ADT, and Visual Studio Code.
 
 ## Featured projects
 
