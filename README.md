@@ -41,6 +41,7 @@ I'm a full stack developer with a background spanning software development, clou
 
 ## Featured projects
 
+- [AI-Agent](https://github.com/jhashivam/AI-Agent) — hands-on Python AI agent learning project, starting with Ollama and progressing toward RAG, MCP, memory, planning, and multi-agent workflows with LangGraph, CrewAI, and LangChain.
 - [Django Project](https://github.com/jhashivam/Django-Project) — Django and Python web development.
 - [Data Analysis Projects](https://github.com/jhashivam/Data_Analysis-Projects) — data analysis and exploratory data projects.
 
